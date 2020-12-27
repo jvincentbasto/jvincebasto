@@ -1,4 +1,4 @@
-Hi! 👋 I'm John Vincent Basto but you can call me **Vince**. 
+Hi! 👋 I'm **Vince**. 
 <br/>
 I'm a guy who is `passionate about programming` and also an `aspiring musician`
 
