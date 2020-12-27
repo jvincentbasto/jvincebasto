@@ -1,6 +1,13 @@
-Hi! 👋 I'm **Vince**. 
-<br/>
-I'm a guy who is `passionate about programming` and also an `aspiring musician`
+Hi! 👋 My name is **Vince**. I'm a guy who is `passionate about programming` and also an `aspiring musician`
+
+---
+
+- 🔭 I’m currently working on improving my web design
+- 🌱 I’m currently keeping myself updated in laravel
+- 🤔 I’m looking for help with my lovelife.
+- 💬 Ask me about anything that I don't know then I go tell someone to ask you the same thing
+
+---
 
 ### Progragmming Languages
 
