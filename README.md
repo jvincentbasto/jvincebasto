@@ -1,39 +1,49 @@
-Hi! 👋 My name is **Vince**. I'm a guy who is `passionate about programming` and also an `aspiring musician`
+# 👋 Hi, I'm Vince  
+
+🚀 **Full Stack Developer** with 3+ years of experience building scalable web applications using **Next.js**, **Node.js**
+📱 I also create cross-platform mobile apps using **Flutter** and **React Native**.  
+💡 Passionate about crafting high-performance, maintainable, and user-friendly solutions.  
+💬 Ask me about anything that I don't know then I go tell someone to ask you the same thing
+---
+
+## 🛠 Tech Stack  
+
+**💻 Main Languages**  
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+**📚 Libraries & Frameworks**  
+![TypeScript](https://skillicons.dev/icons?i=typescript) ![Tailwind](https://skillicons.dev/icons?i=tailwind)  
+`MUI` | `React Query` | `Zustand` | `Tailwind` | `Shadcn` 
+
+**🗄 Databases**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**📱 Mobile / Cross-platform**  
+![Flutter](https://skillicons.dev/icons?i=flutter) ![React](https://skillicons.dev/icons?i=react)
+
+**⚙ OS & Deployment**  
+![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux) ![Vercel](https://skillicons.dev/icons?i=vercel)
+
+**🧰 Tools**  
+![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
-- 🔭 I’m currently working on improving my web design
-- 🌱 I’m currently keeping myself updated in laravel
-- 💬 Ask me about anything that I don't know then I go tell someone to ask you the same thing
+## 📌 Featured Projects  
+
+- [**Project Name**](https://github.com/username/project1) – Short description of the project.  
+- [**Project Name**](https://github.com/username/project2) – Short description of the project.  
+- [**Project Name**](https://github.com/username/project3) – Short description of the project.  
+
+*(Add live demo links where possible!)*
 
 ---
 
-### Progragmming Languages
+## 📫 Let's Connect  
 
-#### Core Web Langauges
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvincentbasto)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jvincentbasto.xyz)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvincentbasto@gmail.com)  
 
-<br/>
-
-<img align="left" alt="html5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="css3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="javascript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="php" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-
-<br/>
-
-#### Utilities,Libraries and Frameworks
-<br/>
-
-<img align="left" alt="sass" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><img align="left" alt="sass" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /><img align="left" alt="laravel" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /><img align="left" alt="vue" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-
-<br/>
-
-#### DevOps Tech and Tools
-
-<br/>
-
-<img align="left" alt="webpack" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /><img align="left" style="display: inline-block" alt="git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" style="display: inline-block" alt="git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-
-<br/>
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvincebasto&show_icons=true)
+---
+⭐️ From [John Vincent Basto](https://github.com/jvincentbasto)
