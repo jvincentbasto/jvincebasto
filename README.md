@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer** with 3+ years of experience building scalable web applications using **Next.js**, **Node.js**
 📱 I also create cross-platform mobile apps using **Flutter** and **React Native**.  
 💡 Passionate about crafting high-performance, maintainable, and user-friendly solutions.  
-💬 Ask me about anything that I don't know then I go tell someone to ask you the same thing
+💬 Ask me about anything that I don't know then I go tell someone to ask you the same thing 😄
 ---
 
 ## 🛠 Tech Stack  
