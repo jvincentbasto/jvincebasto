@@ -39,7 +39,9 @@
 
 ## 📊 GitHub Stats  
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvincebasto&show_icons=true&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvincentbasto&show_icons=true&theme=radical)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvincentbasto&show_icons=true)
+
 
 ---
 
