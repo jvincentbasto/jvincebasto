@@ -31,11 +31,9 @@
 
 ## 📌 Featured Projects  
 
-- [**Project Name**](https://github.com/username/project1) – Short description of the project.  
-- [**Project Name**](https://github.com/username/project2) – Short description of the project.  
-- [**Project Name**](https://github.com/username/project3) – Short description of the project.  
-
-*(Add live demo links where possible!)*
+- [**Multi Tenant MongoDB**](https://github.com/jvincentbasto/multi-tenant-mongodb) – A typical multi-tenant api application using Node js, MongoDB and Express.js which can connect to multiple mongo uri and access its databases. It can setup a project per database wtih authentication.  
+- [**AI Chatbox**]() – upcoming.  
+- [**Video Call and Broadcasting**]() – upcoming.  
 
 ---
 
